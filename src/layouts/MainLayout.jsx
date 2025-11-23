@@ -9,7 +9,7 @@ function MainLayout() {
       </main>
       <footer className="footer">
         <div className="container">
-          <p>© 2025 My React App. All rights reserved.</p>
+          <p>© 2025 Bootcamp Bersama KFA. All rights reserved.</p>
         </div>
       </footer>
     </div>
